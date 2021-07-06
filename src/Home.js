@@ -38,7 +38,7 @@ function Home() {
             </div>
           </ul>
         </div>
-        <div>
+        <div style={{height:"100vh"}}>
           <ul class="nav justify-content-center br-1">
             <li class="nav-item">
               <a class="nav-link active" href="#">Places to stays</a>
