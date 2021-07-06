@@ -1,0 +1,62 @@
+
+#search1{
+    background:"blue";
+    height:"50px";
+    width:"50px";
+    border-radius:"100%",;
+    position:"relative";
+    top:10px;
+  }
+  
+  #shifting{
+  margin-left: 150px;
+      background: white;
+      margin-right: 150px;
+      border-radius: 120px;
+      width: 60%;
+  }
+  .wrt{
+      position: relative;
+      margin-left: 320px;
+      margin-top: 30px;
+      font-size: 50px;
+      font-weight: 200px;
+      color: tomato;
+  }
+  h1{
+    font-size: 50px;
+    font-weight: 200px;
+  }
+  .main{
+      margin-left: 240px;
+  }
+  .para{
+      background: white;
+      width: 170px;
+      border-radius:12px;
+      margin-left: 320px;
+      text-align: center;
+  }
+  .search1{
+    top: 15px;
+    position: relative;
+    border-radius: 120%;
+    height: 60px;
+    width: 60px;
+    background: blue;
+
+    
+  }
+  .search2{
+      padding: 8px;
+  }
+  .base{
+    
+        background-image: url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/56/f3/cb/maison-pic.jpg?w=1200&h=-1&s=1");
+      }
+  .container{
+      background: black;
+      text-align: center;
+      width: 100%;
+      color: white;
+  }
